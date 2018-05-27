@@ -45,7 +45,6 @@
 #下面是我的gitignore文件
 #忽略文件
 .gitigore
-.gitigore~
 #忽略后缀为.cpp~
 *.cpp~
 #忽略后缀为.txt~
